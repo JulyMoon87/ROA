@@ -33,7 +33,7 @@ jobs:
       # required for all workflows
       security-events: write
 
-      # only required for workflows in private repositories
+     # only required for workflows in private repositories
       actions: read
       contents: read
 
@@ -80,5 +80,5 @@ jobs:
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v3
-      with:
+      
         
