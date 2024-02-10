@@ -7,14 +7,17 @@ assignees: 'At beginning Stages, I am recruiting select few developers for my te
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [I realize how much I dont know about developing software and I feel I'm very obviously winging this project Solo]
+**Is your feature request related to a problem? Please describe.** The feature is meant as an concise and easy way to help teach people how to respect others in fighting to stand against social stigmas. It's meant to help us understand perspectives and utilize each others views in order to solve bigger problems as a whole. 
+
+A clear and concise description of what the problem is. Ex.- I'm always frustrated when [I realize how much I dont know about developing software and I feel I'm very obviously winging this project Solo]
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+A clear and concise description of what you want to happen. Refer to the rest of my rants below. 
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered. 
+
+Below is what I have written down so far. 
 
 Platform Foundation will need to be something like this:
 
