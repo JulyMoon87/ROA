@@ -1,9 +1,9 @@
-# ROA
-Records Of Akashia 
+#ROASASS 
+#RecordsOfAkashia 
 
-Platform Foundation will need to be something like this:
+***[Platform Foundation will need to be something like this:
 
-Tables+[Dataset_Connectors]
+Tables+Dataset_Connectors
 
 Google_Earth_Platform + Unreal_Engine + Open_Source + Elements+
 (Some sort of software that combines elements like Cell to Singletary or Perhaps just find images to represent real life elements in hyper-realistic formats. So convert all basic Elements into 3d vr format. Then use Ai to Start building those elements one by one attached to each label in files in multiple_clouds_table_datasets? Sql? idk)
@@ -28,6 +28,8 @@ This is Basically where I am at thus far.
 
 I Have Tons of Implementations I want to incorporate later on. Such as catering to different industries. I was VR realtors. VR Art Galleries. VR Concerts and Auditions for Artist Competitions. I would like to have Marketing And advertising show clothes on people in real life "dressing rooms" and have options to call mom or sis to verify whether it's a suitable look on you or not. 
 
-CRYPTO currencies are a must and I want to utilize the blockchain for contributing each development. 
+CRYPTO currencies are a must and I want to utilize the blockchain for contributing each development.] ***
+
+
 
 
