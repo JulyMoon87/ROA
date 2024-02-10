@@ -1,25 +1,23 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: 'R.O.A.- Records_Of_Akashia'
-labels: 'Open_Source,Hyper-realistic,Tables,Datasets,Database-Connectors, Elements,Unreal_Engine,Adobe,Google,VR,3D,Cognitive_Functions,Psychology
-assignees: 'At beginning Stages, I am recruiting select few developers for my team. Once I've laid out our Foundation and get the Project started for our community Phase'
+[<Name><Feature request>
+<About><Suggest an idea for this project>
+<Title><'R-O-A_Records_Of_Akashia'>
+<Labels><'Open_Source,Hyper-realistic,Tables,Datasets,Database-Connectors, Elements,Unreal_Engine,Adobe,Google,VR,3D,Cognitive_Functions,Psychology
+<Assignees><julymoon87+josmarketplace><At beginning Stages, I am recruiting select few developers for my team. Once I've laid out our Foundation and get the Project started for our community Phase'>]
 
----
+******Is your feature request related to a problem? Please describe.** The feature is meant as an concise and easy way to help teach people how to respect others in fighting to stand against social stigmas. It's meant to help us understand perspectives and utilize each others views in order to solve bigger problems as a whole. 
 
-**Is your feature request related to a problem? Please describe.** The feature is meant as an concise and easy way to help teach people how to respect others in fighting to stand against social stigmas. It's meant to help us understand perspectives and utilize each others views in order to solve bigger problems as a whole. 
+*******A clear and concise description of what the problem is. Ex.- I'm always frustrated when [I realize how much I dont know about developing software and I feel I'm very obviously winging this project Solo]
 
-A clear and concise description of what the problem is. Ex.- I'm always frustrated when [I realize how much I dont know about developing software and I feel I'm very obviously winging this project Solo]
-
-**Describe the solution you'd like**
+******Describe the solution you'd like**
 A clear and concise description of what you want to happen. Refer to the rest of my rants below. 
 
-**Describe alternatives you've considered**
+******Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered. 
 
-Below is what I have written down so far. 
+*******Below is what I have written down so far. 
 
-Platform Foundation will need to be something like this:
+*******Platform Foundation will need to be something like this:
 
 Tables+[Dataset_Connectors]
 
@@ -58,4 +56,4 @@ Please keep in mind that, this Platform will be presented as a research and educ
 
 Add any other context or screenshots about the feature request here.
 
-😮‍💨😏
+😮‍💨😏j********
