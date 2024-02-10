@@ -1,9 +1,9 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+Start building---
+Name: Custom issue template
+About: Describe this issue template's purpose here.
+Title: 'Records_Of_Akashia'
+Labels: 'Community Project+ Accepting Donations+ Recruiting Genius Developers, Dngineers, Artists' 
+Owner/Founder: 'JulyMoon87 + JosMarketplace'
 
 ---
 
