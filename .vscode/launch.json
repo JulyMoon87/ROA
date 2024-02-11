@@ -5,21 +5,61 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.out",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
             "name": "BrightScript Debug: Launch",
             "type": "brightscript",
             "request": "launch",
-            "host": "${promptForHost}",
-            "password": "${promptForPassword}",
-            "rootDir": "${workspaceFolder}"
+            "host": "${192.168.12.236:1111}",
+            "password": "${CrazyA$$1937!}",
+            "rootDir": "${null}"
+        },
+        {
+            "name": "BrightScript Debug: Launch",
+            "type": "brightscript",
+            "request": "launch",
+            "host": "${192.168.12.236:1111}",
+            "password": "${CrazyA$$1937!}",
+            "rootDir": "${null}"
+        },
+        {
+            "name": "BrightScript Debug: Launch",
+            "type": "brightscript",
+            "request": "launch",
+            "host": "${192.168.12.236:1111}",
+            "password": "${CrazyA$$1937!}",
+            "rootDir": "${Records_Of_Akashia}"
         },
 
         {
             "name": "BrightScript Debug: Launch",
             "type": "brightscript",
             "request": "launch",
-            "host": "${promptForHost}",
-            "password": "${promptForPassword}",
-            "rootDir": "${workspaceFolder}"
+            "host": "${192.168.12.236:1111}",
+            "password": "${CrazyA$$1937!}",
+            "rootDir": "${nul}"
         }
     ]
 }
