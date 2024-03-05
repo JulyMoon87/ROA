@@ -1,7 +1,7 @@
-#ROASASS 
-#RecordsOfAkashia 
+****#ROA=
+****#RecordsOfAkashia 
 
-***[Platform Foundation will need to be something like this:
+****[Platform Foundation will need to be something like this:
 
 Tables+Dataset_Connectors
 
@@ -28,8 +28,4 @@ This is Basically where I am at thus far.
 
 I Have Tons of Implementations I want to incorporate later on. Such as catering to different industries. I was VR realtors. VR Art Galleries. VR Concerts and Auditions for Artist Competitions. I would like to have Marketing And advertising show clothes on people in real life "dressing rooms" and have options to call mom or sis to verify whether it's a suitable look on you or not. 
 
-CRYPTO currencies are a must and I want to utilize the blockchain for contributing each development.] ***
-
-
-
-
+CRYPTO currencies are a must and I want to utilize the blockchain for contributing each development.] ****
